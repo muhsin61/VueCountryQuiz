@@ -1,5 +1,5 @@
-# country
-Try https://codesandbox.io/embed/nervous-northcutt-0oheg?fontsize=14&hidenavigation=1&theme=dark&view=preview
+# Country Quiz
+Demo: https://countryquiz.onrender.com
 ## Project setup
 ```
 npm install
